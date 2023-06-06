@@ -8,19 +8,19 @@
 - [Основные этапы проверок валидности HTML-документа?](./answers/HTML_validation.md)
 - [Если представить HTML5 как открытую веб-платформу, из каких блоков он состоит?](./answers/HTML_open_webplatform.md)
 - [Какой тэг использовать для того, что бы сверстать кнопку?](./answers/HTML_buttons.md)
-- Что такое инлайновый стиль? Можно ли его переопределить?
-- Есть ли у HTML элементов свои дефолтные специфичные стили?
-- Что такое семантика? Какие семантичные тэги вы знаете?
-- Как семантически правильно сверстать картинку с подписью?
-- Типы списков в HTML?
-- Для какого тэга используется атрибут alt и зачем он нужен?
-- Какая разница между тэгами &lt;strong&gt;&lt;em&gt; и &lt;b&gt;&lt;i&gt;?
-- Типы &lt;input&gt; элементов в HTML?
-- Для чего используют data-атрибуты?
-- Разница между &lt;script&gt;, &lt;script async&gt; и &lt;script defer&gt;?
-- Для чего используется элемент &lt;datalist&gt;?
-- Почему хорошей практикой считается располагать &lt;link&gt; для подключения CSS стилей внутри тэга &lt;head&gt;, а &lt;script&gt; для подключения JS ставить перед - закрывающимся тэгом &lt;/body&gt;?
-- Что такое мета-тэги?
+- [Что такое инлайновый стиль? Можно ли его переопределить?](./answers/HTML_inline_styles.md)
+- [Есть ли у HTML элементов свои дефолтные специфичные стили?](./answers/HTML_default_styles.md)
+- [Что такое семантика? Какие семантичные тэги вы знаете?](./answers/HTML_semantic.md)
+- [Как семантически правильно сверстать картинку с подписью?](./answers/HTML_semantic_image.md)
+- [Типы списков в HTML?](./answers/HTML_lists.md)
+- [Для какого тэга используется атрибут alt и зачем он нужен?](./answers/HTML_alt_element.md)
+- [Какая разница между тэгами &lt;strong&gt;&lt;em&gt; и &lt;b&gt;&lt;i&gt;?](./answers/HTML_strong_em.md)
+- [Типы &lt;input&gt; элементов в HTML?](./answers/HTML_inputs.md)
+- [Для чего используют data-атрибуты?](./answers/HTML_data_attributes.md)
+- [Разница между &lt;script&gt;, &lt;script async&gt; и &lt;script defer&gt;?](./answers/HTML_scriprts.md)
+- [Для чего используется элемент &lt;datalist&gt;?](./answers/HTML_dataset.md)
+- [Почему хорошей практикой считается располагать &lt;link&gt; для подключения CSS стилей внутри тэга &lt;head&gt;, а &lt;script&gt; для подключения JS ставить перед - закрывающимся тэгом &lt;/body&gt;?](./answers/HTML_links_position.md)
+- [Что такое мета-тэги?](./answers/HTML_meta_tags.md)
 - Что описывается в тэге &lt;head&gt;?
 - Для чего используются тэги &lt;tr&gt;, &lt;th&gt;, &lt;td&gt;?
 - Расскажите о meta-теге с name="viewport"?
