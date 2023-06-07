@@ -21,16 +21,16 @@
 - [Для чего используется элемент &lt;datalist&gt;?](./answers/HTML_dataset.md)
 - [Почему хорошей практикой считается располагать &lt;link&gt; для подключения CSS стилей внутри тэга &lt;head&gt;, а &lt;script&gt; для подключения JS ставить перед - закрывающимся тэгом &lt;/body&gt;?](./answers/HTML_links_position.md)
 - [Что такое мета-тэги?](./answers/HTML_meta_tags.md)
-- Что описывается в тэге &lt;head&gt;?
-- Для чего используются тэги &lt;tr&gt;, &lt;th&gt;, &lt;td&gt;?
-- Расскажите о meta-теге с name="viewport"?
-- Что такое элемент &lt;canvas&gt;? И для чего он используется?
-- Что такое &lt;svg&gt; и &lt;canvas&gt;?
-- Разница между &lt;canvas&gt; и &lt;svg&gt;?
-- В каких случаях лучше использовать &lt;canvas&gt;s, а в каких &lt;svg&gt;?
-- Плюсы и минусы &lt;canvas&gt; и &lt;svg&gt;?
-- Для чего нужен атрибут autocomplete?
-- Что такое элемент &lt;output&gt; в HTML5?
+- [Что описывается в тэге &lt;head&gt;?](./answers/HTML_head.md)
+- [Для чего используются тэги &lt;tr&gt;, &lt;th&gt;, &lt;td&gt;?](./answers/HTML_tr_td_th__tags.md)
+- [Расскажите о meta-теге с name="viewport"?](./answers/HTML_meta_viewport.md)
+- [Что такое элемент &lt;canvas&gt;? И для чего он используется?](./answers/HTML_canvas_tag.md)
+- [Что такое &lt;svg&gt; и &lt;canvas&gt;?](./answers/HTML_svg_canvas.md)
+- [Разница между &lt;canvas&gt; и &lt;svg&gt;?](./answers/HTML_svg_canvas.md)
+- [В каких случаях лучше использовать &lt;canvas&gt;s, а в каких &lt;svg&gt;?](./answers/HTML_svg_canvas.md)
+- [Плюсы и минусы &lt;canvas&gt; и &lt;svg&gt;?](./answers/HTML_svg_canvas.md)
+- [Для чего нужен атрибут autocomplete?](./answers/HTML_autocomplete.md)
+- [Что такое элемент &lt;output&gt; в HTML5?](./answers/HTML_output.md)
 - Что такое свойство valueAsNumber?
 - Что такое атрибут target? Какие значения он принимает?
 - Что такое ApplicationCache в HTML5?
