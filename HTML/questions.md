@@ -31,25 +31,26 @@
 - [Плюсы и минусы &lt;canvas&gt; и &lt;svg&gt;?](./answers/HTML_svg_canvas.md)
 - [Для чего нужен атрибут autocomplete?](./answers/HTML_autocomplete.md)
 - [Что такое элемент &lt;output&gt; в HTML5?](./answers/HTML_output.md)
-- Что такое свойство valueAsNumber?
-- Что такое атрибут target? Какие значения он принимает?
-- Что такое ApplicationCache в HTML5?
-- Для чего используется элемент &lt;picture&gt;?
-- Что такое srcset? Как работает srcset?
-- Как семантически верно сверстать навигационное меню?
-- Что такое &lt;iframe&gt;?
-- Для чего используются тэги &lt;sub&gt; и &lt;sup&gt;?
-- Как можно скрыть элемент разметки не используя CSS и JS?
-- Разница между &lt;meter&gt; и &lt;progress&gt;?
-- Как можно сгруппировать опции внутри тэга &lt;select&gt;?
-- Как можно изменить форму картинки или HTML элемента?
-- Чем отличается &lt;article&gt; от &lt;section&gt;?
-- Расскажите об особенностях стилизации &lt;svg&gt;?
-- Разница между кнопкой и ссылкой в HTML?
-- Для чего используется атрибут decoding?
-- Для чего используется атрибут enterkeyhint?
-- Для чего используют атрибут novalidate?
-- Для чего используют атрибут inputmode?
-- Для чего используется атрибут pattern?
-- Почему стоит использовать семантические теги в верстке?
-- Для чего используется тэг &lt;label&gt;?
+- [Что такое свойство valueAsNumber?](./answers/HTML_valueAsNumber.md)
+- [Что такое атрибут target? Какие значения он принимает?](./answers/HTML_target_attribute.md)
+- [Что такое ApplicationCache в HTML5?](./answers/HTML_AppCache.md)
+- [Для чего используется элемент &lt;picture&gt;?](./answers/HTML_picture.md)
+- [Что такое srcset? Как работает srcset?](./answers/HTML_srcset.md)
+- [Как семантически верно сверстать навигационное меню?](./answers/HTML_nav_menu.md)
+- [Что такое &lt;iframe&gt;?](./answers/HTML_iframe.md)
+- [Для чего используются тэги &lt;sub&gt; и &lt;sup&gt;?](./answers/HTML_sub_sup.md)
+- [Как можно скрыть элемент разметки не используя CSS и JS?](./answers/HTML_hide_el.md)
+- [Разница между &lt;meter&gt; и &lt;progress&gt;?](./answers/HTML_meter_progress_diff.md)
+- [Как можно сгруппировать опции внутри тэга &lt;select&gt;?](./answers/HTML_group_select.md)
+- [Как можно изменить форму картинки или HTML элемента?](./answers/HTML_change_sizes.md)
+- [Чем отличается &lt;article&gt; от &lt;section&gt;?](./answers/HTML_article_section_diff.md)
+- [Расскажите об особенностях стилизации &lt;svg&gt;?](./answers/HTML_svg_style.md)
+- [Разница между кнопкой и ссылкой в HTML?](./answers/HTML_button_link_diff.md)
+- [Для чего используется атрибут decoding?](./answers//HTML_decoding.md)
+- [Для чего используется атрибут enterkeyhint?](./answers/HTML_enter_key_hint.md)
+- [Для чего используют атрибут novalidate?](./answers/HTML_novalidate.md)
+- [Для чего используют атрибут inputmode?](./answers/HTML_inputmode.md)
+- [Для чего используется атрибут pattern?](./answers//HTML_pattern.md)
+- [Почему стоит использовать семантические теги в верстке?](./answers/HTML_semantic_reasons.md)
+- [Для чего используется тэг &lt;label&gt;?](./answers/HTML_label.md)
+- [Попробуйте дать определение элемента main. В чём его суть? Согласованы ли две спецификации (WHATWG and W3C) в его определении?](./answers/HTML_main_element.md)
