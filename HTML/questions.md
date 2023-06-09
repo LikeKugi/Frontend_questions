@@ -54,3 +54,5 @@
 - [Почему стоит использовать семантические теги в верстке?](./answers/HTML_semantic_reasons.md)
 - [Для чего используется тэг &lt;label&gt;?](./answers/HTML_label.md)
 - [Попробуйте дать определение элемента main. В чём его суть? Согласованы ли две спецификации (WHATWG and W3C) в его определении?](./answers/HTML_main_element.md)
+- [Разница между cookie, sessionStorage и localStorage](./answers/HTML_storages_diff.md)
+- [Как реализовать отложенную загрузку изображений?](./answers/HTML_lazy_loading.md)
