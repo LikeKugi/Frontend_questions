@@ -1,0 +1,1 @@
+- [Какие типы данных присутствуют в JavaScript?](./answers/Javascript_data_types.md)
