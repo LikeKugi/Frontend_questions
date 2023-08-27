@@ -1,1 +1,4 @@
-[Вопросы по HTML](./HTML/questions.md)
+- [Вопросы по HTML](./HTML/questions.md)
+- [Вопросы по CSS](./CSS/questions.md)
+- [Вопросы по JS](./JS/questions.md)
+- [Core JS Interview RS School](./RS-School_Core-js-2/questions.md)
