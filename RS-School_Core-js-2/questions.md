@@ -194,27 +194,27 @@
 ### Typescript:
 
 - #### Ability to write concise TypeScript code using its constructs
-  - basic types
-  - enums
-  - type / interface, differences between them
-  - using interfaces with optional properties, read-only properties, etc...
-  - function types
-  - utitily types `(optional)`
-  - typeguards `(optional)`
+  - [basic types](./answers/TypeScript/basic_types.md)
+  - [enums](./answers/TypeScript/enums.md)
+  - [type / interface, differences between them](./answers/TypeScript/types_interfaces_diff.md)
+  - [using interfaces with optional properties, read-only properties, etc...](./answers/TypeScript/properties_interfaces.md)
+  - [function types](./answers/TypeScript/functions.md)
+  - [utitily types](./answers/TypeScript/utility_types.md) `(optional)`
+  - [typeguards](./answers/TypeScript/typequards.md) `(optional)`
   - creating custom types
-  - generic types (concept)
+  - [generic types (concept)](./answers/TypeScript/generics.md)
   - understanding TS (ES6) module system
 
 ### Design patterns:
 
-- Creational Design Patterns
-- Structural Design Patterns
-- Behavioral Design Patterns
-- MVC `(optional)`
+- [Creational Design Patterns](./answers/Design_Patterns/creational.md)
+- [Structural Design Patterns](./answers/Design_Patterns/structural.md)
+- [Behavioral Design Patterns](./answers/Design_Patterns/behavioral.md)
+- [MVC](./answers/Design_Patterns/mvc.md) `(optional)`
 
 - #### Intermediate knowledge of patterns and best practices:
 
-  - SOLID principles
+  - [SOLID principles](./answers/patterns_practices/solid.md)
   - design patterns used on a student's project, and able to compare these patterns `(optional)`
 
 - #### Software Development Methodologies `(optional)`
@@ -225,7 +225,7 @@
 
 ### Testing `(optional)`
 
-- Testing Types
+- [Testing Types](./answers/testing/testing.md)
   - Integration Testing
   - E2E
   - Security Testing
