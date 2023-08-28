@@ -238,32 +238,36 @@
 
 ### Web Communication Protocols: `(optional)`
 
-- #### HTTP vs HTTPS
-- #### HTTP 1.x, 2.x, 3.x
+[Одной ссылкой на сайте](https://selectel.ru/blog/http-request/)
+
+[ещё одной ссылкой](https://habr.com/ru/companies/avito/articles/710660/)
+
+- #### [HTTP vs HTTPS](./answers/web_communications_protocols/http_https.md)
+- #### [HTTP 1.x, 2.x, 3.x](./answers/web_communications_protocols/http_versions.md)
 - #### HTTP methods, headers, responses, body
-- #### HTTP status codes groups (1xx, 2xx, 3xx, 4xx, 5xx)
+- #### [HTTP status codes groups (1xx, 2xx, 3xx, 4xx, 5xx)](./answers/web_communications_protocols/http_versions.md)
 - #### RESTful API
 
 ### Common web-security knowledge `(optional)`
 
 - #### Basic understanding of most common security terms (CORS, XSS) `(optional)`
 
-  - XSS
-  - CORS
-  - OWASP Top 10
-  - Auth (JWT, OAuth, Basic, etc.)
+  - [XSS](https://blog.skillfactory.ru/glossary/xss/)
+  - [CORS](https://habr.com/ru/companies/avito/articles/710674/)
+  - [OWASP Top 10](https://proglib.io/p/chto-takoe-top-10-owasp-i-kakie-uyazvimosti-veb-prilozheniy-naibolee-opasny-2021-09-09)
+  - Auth ([JWT](https://habr.com/ru/articles/340146/), OAuth, Basic, etc.)
 
 ### Coding tasks:
 
-- `Function.prototype.bind` implement polyfill
-- `Object.create` implement polyfill
-- `Array.flat` implement polyfill
-- `Array.reduce` implement polyfill
-- `'hello world'.repeating(3)` -> 'hello world hello world hello world'. How to implement?
-- `myFunc('!', 4, -10, 34, 0)` -> '4!-10!34!0`. How to implement?
-- `five(plus(seven(minus(three()))))` -> 9. How to implement?
-- add(5)(9)(-4)(1) -> 11. How to implement?
-- `periodOutput(period)` method should output in the console once per every period how mach time has passed since the first function call.
+- [`Function.prototype.bind` implement polyfill](./answers/coding/bindPolyfill.js)
+- [`Object.create` implement polyfill](./answers/coding/objectCreatePolyfill.js)
+- [`Array.flat` implement polyfill](./answers/coding/arrayFlatPolyfill.js)
+- [`Array.reduce` implement polyfill](./answers/coding/arrayReducePolyfill.js)
+- [`'hello world'.repeating(3)` -> 'hello world hello world hello world'. How to implement?](./answers/coding/stringRepeatPolyfill.js)
+- [`myFunc('!', 4, -10, 34, 0)` -> '4!-10!34!0`. How to implement?](./answers/coding/concatArgs.js)
+- [`five(plus(seven(minus(three()))))` -> 9. How to implement?](./answers/coding/weirdCalc.js)
+- [add(5)(9)(-4)(1) -> 11. How to implement?](./answers/coding/curringFunction.js)
+- [`periodOutput(period)`](./answers/coding/periodOutput.js) method should output in the console once per every period how mach time has passed since the first function call.
   Example:
   `periodOutput(100) -> 100(after 100 ms), 200(after 100 ms), 300(after 100 ms), ...`
-- `extendedPeriodOutput(period)` method should output in the console once per period how mach time has passed since the first function call and then increase the period. Example: `// extendedPeriodOutput(100) -> 100(after 100 ms), 200(after 200 ms), 300(after 300 ms)`
+- [`extendedPeriodOutput(period)`](./answers/coding/extendedPeriodOutput.js) method should output in the console once per period how mach time has passed since the first function call and then increase the period. Example: `// extendedPeriodOutput(100) -> 100(after 100 ms), 200(after 200 ms), 300(after 300 ms)`
