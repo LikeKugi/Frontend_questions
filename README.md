@@ -2,3 +2,4 @@
 - [Вопросы по CSS](./CSS/questions.md)
 - [Вопросы по JS](./JS/questions.md)
 - [Core JS Interview RS School](./RS-School_Core-js-2/questions.md)
+- [React interview RS School](./RS-School_React/questions.md)
