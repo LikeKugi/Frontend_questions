@@ -14,24 +14,27 @@
 
 ## Render
 
-[When is a component rendered?](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-[How not to render on props change?](https://reactjs.org/docs/react-api.html#reactmemo)
-[Is it OK to use arrow functions in render methods?](https://reactjs.org/docs/faq-functions.html#is-it-ok-to-use-arrow-functions-in-render-methods)
+- [When is a component rendered?](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) ![diagram](img/react-lifecycle-methods.webp)
+
+  - [another link](https://reactjsguru.com/react-component-life-cycle-with-diagram/)
+
+- [How not to render on props change?](https://reactjs.org/docs/react-api.html#reactmemo)
+- [Is it OK to use arrow functions in render methods?](https://reactjs.org/docs/faq-functions.html#is-it-ok-to-use-arrow-functions-in-render-methods)
 
 ## Interaction between components
 
-[How do you pass a value from parent to child?](https://scrimba.com/articles/react-interview-questions/#how-do-you-pass-a-value-from-parent-to-child)
-[How do you pass a value from child to parent?](https://scrimba.com/articles/react-interview-questions/#how-do-you-pass-a-value-from-child-to-parent)
-[What is prop drilling?](https://scrimba.com/articles/react-interview-questions/#what-is-prop-drilling)
-[Can a child component modify its own props?](https://scrimba.com/articles/react-interview-questions/#can-a-child-component-modify-its-own-props)
-[How do you pass a value from sibling to sibling?](https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper)
+- [How do you pass a value from parent to child?](https://scrimba.com/articles/react-interview-questions/#how-do-you-pass-a-value-from-parent-to-child)
+- [How do you pass a value from child to parent?](https://scrimba.com/articles/react-interview-questions/#how-do-you-pass-a-value-from-child-to-parent)
+- [What is prop drilling?](https://scrimba.com/articles/react-interview-questions/#what-is-prop-drilling)
+- [Can a child component modify its own props?](https://scrimba.com/articles/react-interview-questions/#can-a-child-component-modify-its-own-props)
+- [How do you pass a value from sibling to sibling?](https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper)
 
 ## Lifecycle and State
 
-[What is the difference between props and state?](https://scrimba.com/articles/react-interview-questions/#what-is-the-difference-between-props-and-state)
-[How does state in a class component differ from state in a functional component?](https://scrimba.com/articles/react-interview-questions/#how-does-state-in-a-class-component-differ-from-state-in-a-functional-component)
-[What is the component lifecycle?](https://scrimba.com/articles/react-interview-questions/#what-is-the-component-lifecycle)
-[How do you update lifecycle in function components?](https://scrimba.com/articles/react-interview-questions/#how-do-you-update-lifecycle-in-function-components)
+- [What is the difference between props and state?](https://scrimba.com/articles/react-interview-questions/#what-is-the-difference-between-props-and-state)
+- [How does state in a class component differ from state in a functional component?](https://scrimba.com/articles/react-interview-questions/#how-does-state-in-a-class-component-differ-from-state-in-a-functional-component)
+- [What is the component lifecycle?](https://scrimba.com/articles/react-interview-questions/#what-is-the-component-lifecycle)
+- [How do you update lifecycle in function components?](https://scrimba.com/articles/react-interview-questions/#how-do-you-update-lifecycle-in-function-components)
 
 ## Ref
 
