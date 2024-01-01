@@ -38,28 +38,28 @@
 
 ## Ref
 
-[What is the difference between refs and state variables?](https://scrimba.com/articles/react-interview-questions/#what-is-the-difference-between-refs-and-state-variables)
-[When is the best time to use refs?](https://scrimba.com/articles/react-interview-questions/#when-is-the-best-time-to-use-refs)
-[What is the proper way to update a ref in a function component?](https://scrimba.com/articles/react-interview-questions/#what-is-the-proper-way-to-update-a-ref-in-a-function-component)
+- [What is the difference between refs and state variables?](https://scrimba.com/articles/react-interview-questions/#what-is-the-difference-between-refs-and-state-variables)
+- [When is the best time to use refs?](https://scrimba.com/articles/react-interview-questions/#when-is-the-best-time-to-use-refs)
+- [What is the proper way to update a ref in a function component?](https://scrimba.com/articles/react-interview-questions/#what-is-the-proper-way-to-update-a-ref-in-a-function-component)
 
 ## Context
 
-[What is the difference between the context API and prop drilling?](https://scrimba.com/articles/react-interview-questions/#what-is-the-difference-between-the-context-api-and-prop-drilling)
-[When shouldn't you use the context API?](https://scrimba.com/articles/react-interview-questions/#when-shouldn-t-you-use-the-context-api)
+- [What is the difference between the context API and prop drilling?](https://scrimba.com/articles/react-interview-questions/#what-is-the-difference-between-the-context-api-and-prop-drilling)
+- [When shouldn't you use the context API?](https://scrimba.com/articles/react-interview-questions/#when-shouldn-t-you-use-the-context-api)
 
 ## Redux
 
-[Enumerate base principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
-[What is the typical flow of data in a React + Redux app?](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
-[Benefits of Redux?](https://fintelics.medium.com/technical-benefits-of-using-redux-f7d345e7cc9c)
+- [Enumerate base principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
+- [What is the typical flow of data in a React + Redux app?](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+- [Benefits of Redux?](https://fintelics.medium.com/technical-benefits-of-using-redux-f7d345e7cc9c)
 
 ## Other
 
-[Is it a good idea to use Math.random for keys?](https://reactjs.org/docs/lists-and-keys.html#keys)
-[What are the limitations of React?](https://scrimba.com/articles/react-interview-questions/#what-are-the-limitations-of-react)
-[What is a higher order component?](https://scrimba.com/articles/react-interview-questions/#what-is-a-higher-order-component)
-[What are uncontrolled and controlled components?](https://scrimba.com/articles/react-interview-questions/#what-are-uncontrolled-and-controlled-components)
-[React optimizations](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
+- [Is it a good idea to use Math.random for keys?](https://reactjs.org/docs/lists-and-keys.html#keys)
+- [What are the limitations of React?](https://scrimba.com/articles/react-interview-questions/#what-are-the-limitations-of-react)
+- [What is a higher order component?](https://scrimba.com/articles/react-interview-questions/#what-is-a-higher-order-component)
+- [What are uncontrolled and controlled components?](https://scrimba.com/articles/react-interview-questions/#what-are-uncontrolled-and-controlled-components)
+- [React optimizations](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 
 ## Coding task
 
