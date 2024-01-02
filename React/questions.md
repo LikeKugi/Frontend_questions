@@ -14,12 +14,12 @@
 | 6    | [When to use a Class Component over a Function Component?](https://reactdev.ru/types/050/)                                                           | LOW      |
 | 7    | [What are Pure Components?](https://reactdev.ru/reference/PureComponent/)                                                                            | MEDIUM   |
 | 7.1  | [If Pure Component is better from the optimization point of view, why don't we use it by default?(#)](https://news.ycombinator.com/item?id=14418054) | MEDIUM   |
-| 8    | What is state in React?                                                                                                                              | HIGH     |
-| 9    | What are props in React?                                                                                                                             | HIGH     |
-| 10   | What is the difference between state and props?                                                                                                      | HIGH     |
-| 11   | Why should we not update the state directly?                                                                                                         | HIGH     |
-| 11.1 | Is the state updated synchronously?                                                                                                                  | HIGH     |
-| 12   | What is the purpose of callback function as an argument of setState()?                                                                               | MEDIUM   |
+| 8    | [What is state in React?](https://ru.legacy.reactjs.org/docs/faq-state.html)                                                                         | HIGH     |
+| 9    | [What are props in React?](https://reactdev.ru/types/050/#props)                                                                                     | HIGH     |
+| 10   | [What is the difference between state and props?](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)                               | HIGH     |
+| 11   | [Why should we not update the state directly?](https://reactdev.ru/learn/updating-objects-in-state/)                                                 | HIGH     |
+| 11.1 | [Is the state updated synchronously?](https://reactdev.ru/learn/queueing-a-series-of-state-updates/)                                                 | HIGH     |
+| 12   | [What is the purpose of callback function as an argument of setState()?](https://reactdev.ru/learn/queueing-a-series-of-state-updates/#_2)           | MEDIUM   |
 | 13   | What is the difference between HTML and React event handling?                                                                                        | LOW      |
 | 14   | How to bind methods or event handlers in JSX callbacks?                                                                                              | HIGH     |
 | 15   | How to pass a parameter to an event handler or callback?                                                                                             | HIGH     |
