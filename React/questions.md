@@ -65,7 +65,7 @@
 | 50     | What are stateful components?                                                                                                                                    | MEDIUM   |
 |        | **React Redux**                                                                                                                                                  | HIGH     |
 | 51     | What is Flux?                                                                                                                                                    | HIGH     |
-| 52     | What is Redux?                                                                                                                                                   | HIGH     |
+| 52     | [What is Redux?](https://redux.js.org/introduction/getting-started)                                                                                              | HIGH     |
 | 52.1   | What hooks does Redux have                                                                                                                                       | HIGH     |
 | 53     | [What are the core principles of Redux?](https://redux.js.org/understanding/thinking-in-redux/three-principles)                                                  | HIGH     |
 | 54     | What are the downsides of Redux compared to Flux?                                                                                                                | HIGH     |
